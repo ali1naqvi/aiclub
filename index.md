@@ -5,17 +5,17 @@ layout: default
 theme: Minimal
 ---
 
-#AI club
+# AI club
 
 ##Club Mission
 **This is a great section for important principles, like your club mission and metrics for measuring success.**
 
-##Members
+## Members
 - George Washington
 - John Adams
 - Thomas Jefferson
 
-##Events
+## Events
 Stay in tune for annoncements regards events!
 
 
