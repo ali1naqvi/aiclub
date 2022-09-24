@@ -2,13 +2,13 @@
 title: "AI CLUB"
 permalink: /
 layout: default
-theme: Minimal
+theme: Tactile
 ---
 
 # AI club
 
-##Club Mission
-**This is a great section for important principles, like your club mission and metrics for measuring success.**
+## Club Mission
+This is a great section for important principles, like your club mission and metrics for measuring success.
 
 ## Members
 - George Washington
@@ -16,6 +16,6 @@ theme: Minimal
 - Thomas Jefferson
 
 ## Events
-Stay in tune for annoncements regards events!
+Stay in tune for announcements regards events!
 
 
