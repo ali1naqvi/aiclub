@@ -1,5 +1,4 @@
 ---
-permalink: /
 layout: default
 theme: tactile
 ---
