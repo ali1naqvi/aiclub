@@ -2,7 +2,7 @@
 title: "AI CLUB"
 permalink: /
 layout: default
-theme: Tactile
+theme: tactile
 ---
 
 # AI club
