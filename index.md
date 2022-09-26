@@ -1,5 +1,4 @@
 ---
-title: "AI CLUB"
 permalink: /
 layout: default
 theme: tactile
