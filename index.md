@@ -2,7 +2,6 @@
 layout: default
 theme: tactile
 ---
-
 # AI club
 
 ## Club Mission
